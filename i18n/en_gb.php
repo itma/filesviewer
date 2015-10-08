@@ -1,0 +1,48 @@
+<?php
+    return array(
+        // login form
+        'login_btn' => 'Login',
+        'login_cta' => 'Fill the form below to see the hidden assets. If you have not the account yet',
+        'login_register_new_account' => 'create a new one',
+        'login_errors' => 'Fill the form correctly. The errors are listed below',
+        'login_error_wrong_login' => 'Given email or password is wrong.',
+        'login_error_account_not_confirmed' => 'Your account is not confirmed. Please confirm the account by clicking the link we\'ve sent in a welcom message.',
+        'login_form_placeholder_email' => 'Email address',
+        'login_form_placeholder_password' => 'Password',
+        'login_form_label_email' => 'Email address',
+        'login_form_label_password' => 'Password',
+        // registratrion form
+        'registration_error_empty_name' => 'Fill the "Name" field.',
+        'registration_error_empty_mobile' => 'Fill the "Mobile" field.',
+        'registration_error_email_exists' => 'The given address email exists.',
+        'registration_error_empty_email' => 'Fill the "Email address" field.',
+        'registration_error_empty_password' => 'Fill the "Password" field.',
+        'registration_errors' => 'Fill the form correctly. The errors are listed below',
+        'registration_form_placeholder_email' => 'joe.doe@domain.com',
+        'registration_form_placeholder_password' => 'Password',
+        'registration_form_label_email' => 'Email address',
+        'registration_form_label_password' => 'Password',
+        'registration_form_placeholder_name' => 'Joe Doe',
+        'registration_form_placeholder_mobile' => '999-666-999',
+        'registration_form_label_name' => 'Your name',
+        'registration_form_label_mobile' => 'Mobile',
+        'registration_btn' => 'Create new account',
+        'registration_account_created' => 'Account has been created. Confirm the account by clicking the link in a welcom message we\'ve sent you just now.',
+        'registration_cta_long' => 'Fill the form below to create a new account. If you already have the account',
+        'registration_login' => 'login into',
+        'registration_cta_short' => 'Create an account',
+        // user
+        'user_logged_as' => 'You are logged as',
+        'logout_btn' => 'Logout',
+        // viewier
+        'directory' => 'The directory',
+        'is_empty' => 'is empty',
+        'directories' => 'Directories',
+        'directory_main' => 'Main directory',
+        'directory_empty' => 'The list is empty.',
+        'directory_files_list' => 'The list of files in',
+        'file_is_not_readable' => 'The file isn\'t readable!',
+        'file_is_not_readable_info' => 'In order to preview or download the file, it has to have given the correct permission to reading it. Inform the owner about the exception.',
+        'back_to_main_directory' => 'Back to the main directory',
+    ); 
+?>
